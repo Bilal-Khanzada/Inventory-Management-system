@@ -1,0 +1,4 @@
+.env
+
+# Ignore node_modules folder (dependency folder)
+node_modules/
